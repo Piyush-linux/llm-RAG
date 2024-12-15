@@ -1,5 +1,16 @@
 # MultiPDF Chat App
 
+```
+- http://localhost:8501/
+- https://smith.langchain.com/o/7d9831c2-5129-424d-8d84-863bc4049f25/projects?paginationState=%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A10%7D
+- https://platform.openai.com/settings/organization/usage
+- https://gamma.app/docs/Unlocking-Knowledge-from-PDFs-A-Guide-to-Building-a-Conversationa-9r0h8ul4n8cellm?mode=doc
+
+
+- Lnagchain tracing
+- Open AI API
+- Stream lit > TextSplit > Embed > Vector DB > query > retrive + LLM => O/P 
+```
 > You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
 
 ## Introduction
