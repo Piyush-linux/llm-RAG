@@ -1,5 +1,13 @@
 # MultiPDF Chat App
 
+![](/docs/ss.png)
+
+```
+conda create 
+conda activate venv
+pip install -r requiremnets.txt
+```
+
 ```
 - http://localhost:8501/
 - https://smith.langchain.com/o/7d9831c2-5129-424d-8d84-863bc4049f25/projects?paginationState=%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A10%7D
